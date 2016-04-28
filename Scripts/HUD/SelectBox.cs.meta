@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: be5652dd8800842089b3dae93f6eb61f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Left: {fileID: 12000006, guid: 149c6ded1288342f781a612a6bb78091, type: 2}
+  - Top: {fileID: 12000004, guid: 149c6ded1288342f781a612a6bb78091, type: 2}
+  - Right: {fileID: 12000002, guid: 149c6ded1288342f781a612a6bb78091, type: 2}
+  - Bottom: {fileID: 12000000, guid: 149c6ded1288342f781a612a6bb78091, type: 2}
+  - Outline: {fileID: 100008, guid: 149c6ded1288342f781a612a6bb78091, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: 8432ce27eee1b4d97a80b9c3b5c67799
+timeCreated: 1435789752
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Philosopher_0
+    21300002: Philosopher_1
+    21300004: Philosopher_2
+    21300006: Philosopher_3
+    21300008: Philosopher_4
+    21300010: Philosopher_5
+    21300012: Philosopher_6
+    21300014: Philosopher_7
+    21300016: Philosopher_8
+    21300018: Philosopher_9
+    21300020: Philosopher_10
+    21300022: Philosopher_11
+    21300024: Philosopher_12
+    21300026: Philosopher_13
+    21300028: Philosopher_14
+    21300030: Philosopher_15
+    21300032: Philosopher_16
+    21300034: Philosopher_17
+    21300036: Philosopher_18
+    21300038: Philosopher_19
+    21300040: Philosopher_20
+    21300042: Philosopher_21
+    21300044: Philosopher_22
+    21300046: Philosopher_23
+    21300048: Philosopher_24
+    21300050: Philosopher_25
+    21300052: Philosopher_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Philosopher_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 199
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 199
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 199
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 199
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 199
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 199
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 199
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 99
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 99
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 99
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 99
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 99
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 99
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 99
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 99
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Philosopher_26
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

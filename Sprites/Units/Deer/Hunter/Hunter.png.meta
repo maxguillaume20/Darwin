@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 856114b8f5cc54a19ac6b98a0f4ee9cc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RaceTemplateDeerF
+    21300002: RaceTemplateDeerF_0
+    21300004: RaceTemplateDeerF_1
+    21300006: RaceTemplateDeerF_2
+    21300008: RaceTemplateDeerF_3
+    21300010: RaceTemplateDeerF_4
+    21300012: RaceTemplateDeerF_5
+    21300014: RaceTemplateDeerF_6
+    21300016: RaceTemplateDeerF_7
+    21300018: RaceTemplateDeerF_8
+    21300020: RaceTemplateDeerF_9
+    21300022: RaceTemplateDeerF_10
+    21300024: RaceTemplateDeerF_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RaceTemplateDeerF_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 108
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 72
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 72
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 36
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RaceTemplateDeerF_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

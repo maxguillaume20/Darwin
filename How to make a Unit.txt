@@ -1,0 +1,7 @@
+How to make a Unit
+
+This walk-through assumes you already have the sprite sheet
+
+Within Unity editor:
+
+1. 

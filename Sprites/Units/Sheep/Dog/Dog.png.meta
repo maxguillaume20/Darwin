@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: d7a1de40e8a974921b04d2b622b08efc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dog_0
+    21300002: Dog_1
+    21300004: Dog_2
+    21300006: Dog_3
+    21300008: Dog_4
+    21300010: Dog_5
+    21300012: Dog_6
+    21300014: Dog_7
+    21300016: Dog_8
+    21300018: Dog_9
+    21300020: Dog_10
+    21300022: Dog_11
+    21300024: Dog_12
+    21300026: Dog_13
+    21300028: Dog_14
+    21300030: Dog_15
+    21300032: Dog_16
+    21300034: Dog_17
+    21300036: Dog_18
+    21300038: Dog_19
+    21300040: Dog_20
+    21300042: Dog_21
+    21300044: Dog_22
+    21300046: Dog_23
+    21300048: Dog_24
+    21300050: Dog_25
+    21300052: Dog_26
+    21300054: Dog_27
+    21300056: Dog_28
+    21300058: Dog_29
+    21300060: Dog_30
+    21300062: Dog_31
+    21300064: Dog_32
+    21300066: Dog_33
+    21300068: Dog_34
+    21300070: Dog_35
+    21300072: Dog_36
+    21300074: Dog_37
+    21300076: Dog_38
+    21300078: Dog_39
+    21300080: Dog_40
+    21300082: Dog_41
+    21300084: Dog_42
+    21300086: Dog_43
+    21300088: Dog_44
+    21300090: Dog_45
+    21300092: Dog_46
+    21300094: Dog_47
+    21300096: Dog_48
+    21300098: Dog_49
+    21300100: Dog_50
+    21300102: Dog_51
+    21300104: Dog_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1226
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1226
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1226
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1226
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1226
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1226
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1226
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1226
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1226
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 981
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 981
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 981
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 981
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 981
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 981
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_16
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 981
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_17
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 981
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 736
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 736
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 736
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 736
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 736
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_25
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 736
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_26
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 736
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 491
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 491
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 491
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_31
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 491
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 491
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 491
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_34
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 491
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_35
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 491
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 246
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 246
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 246
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 246
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_41
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 246
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 246
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_43
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 246
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 246
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_49
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_52
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1
+        width: 256
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

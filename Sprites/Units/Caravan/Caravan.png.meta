@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 77c96e4ea532c4fcaba4ed42dc11dba3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Caravan_0
+    21300002: Caravan_1
+    21300004: Caravan_2
+    21300006: Caravan_3
+    21300008: Caravan_4
+    21300010: Caravan_5
+    21300012: Caravan_6
+    21300014: Caravan_7
+    21300016: Caravan_8
+    21300018: Caravan_9
+    21300020: Caravan_10
+    21300022: Caravan_11
+    21300024: Caravan_12
+    21300026: Caravan_13
+    21300028: Caravan_14
+    21300030: Caravan_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Caravan_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 578
+        width: 90
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 577
+        width: 90
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 578
+        width: 90
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 577
+        width: 90
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 395
+        width: 205
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 396
+        width: 205
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 395
+        width: 206
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 396
+        width: 205
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 203
+        width: 205
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 204
+        width: 205
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 203
+        width: 206
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 204
+        width: 205
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 90
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2
+        width: 90
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 3
+        width: 90
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caravan_15
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2
+        width: 90
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

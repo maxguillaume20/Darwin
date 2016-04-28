@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 0969121f92bd34046a17e7cab2dd1e82
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cliffs_0
+    21300002: cliffs_1
+    21300004: cliffs_2
+    21300006: cliffs_3
+    21300008: cliffs_4
+    21300010: cliffs_5
+    21300012: cliffs_6
+    21300014: cliffs_7
+    21300016: cliffs_8
+    21300018: cliffs_9
+    21300020: cliffs_10
+    21300022: cliffs_11
+    21300024: cliffs_12
+    21300026: cliffs_13
+    21300028: cliffs_14
+    21300030: cliffs_15
+    21300032: cliffs_16
+    21300034: cliffs_17
+    21300036: cliffs_18
+    21300038: cliffs_19
+    21300040: cliffs_20
+    21300042: cliffs_21
+    21300044: cliffs_22
+    21300046: cliffs_23
+    21300048: cliffs_24
+    21300050: cliffs_25
+    21300052: cliffs_26
+    21300054: cliffs_27
+    21300056: cliffs_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cliffs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 101
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 99
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 101
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 101
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 99
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 101
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 99
+        width: 178
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_8
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 101
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_9
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 99
+        width: 179
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 15
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_15
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 6
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_17
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 6
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 63
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 46
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_20
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_21
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 17
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_22
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_23
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 7
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_24
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_26
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 31
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_27
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 6
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cliffs_28
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 6
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

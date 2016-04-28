@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 7651111596d414502a8e44e5d7196ceb
+timeCreated: 1437180214
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Trebuchet_0
+    21300002: Trebuchet_1
+    21300004: Trebuchet_2
+    21300006: Trebuchet_3
+    21300008: Trebuchet_4
+    21300010: Trebuchet_5
+    21300012: Trebuchet_6
+    21300014: Trebuchet_7
+    21300016: Trebuchet_8
+    21300018: Trebuchet_9
+    21300020: Trebuchet_10
+    21300022: Trebuchet_11
+    21300024: Trebuchet_12
+    21300026: Trebuchet_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Trebuchet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 800
+        width: 200
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 799
+        width: 201
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 799
+        width: 194
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 196
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 599
+        width: 192
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 599
+        width: 191
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 197
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 349
+        width: 170
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 347
+        width: 170
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 349
+        width: 170
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 210
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 273
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Trebuchet_13
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 322
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
